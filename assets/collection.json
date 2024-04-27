@@ -1,0 +1,14 @@
+{
+	"name": "MIT's Collection",
+	"symbol": "MIT",
+	"image": "collection.png",
+	"description": "This is a collection of MIT's NFTs",
+	"attributes": [
+		{"trait_type": "Number", "value": "10"}
+	],
+	"properties": {
+		"files": [
+			{"uri": "collection.png", "type": "image/jpg"}
+		]
+	}
+}

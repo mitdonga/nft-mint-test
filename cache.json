@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "DojitXT8DGPRkLpjE1sSgdrRyruURswtYGgw4YFPBijy",
+    "candyGuard": "",
+    "candyMachineCreator": "At1VdoB2RWtBVQMiQVJcoc5Wa1Eq93NaFgDsRYwTLgjR",
+    "collectionMint": "HyQRcke5ZvRmP6nKdZS1Q9vDGQx45J3Qj9LmhyEJ1egh"
+  },
+  "items": {
+    "-1": {
+      "name": "MIT's Collection",
+      "image_hash": "2ea8a92d93ad69cb647faa7a289670e7b152dde0fd61618b522db62815ed5f6d",
+      "image_link": "https://arweave.net/5biLtRs8s1DqiH-JIhLi9rQxTKywEzsMJtRZHgKKjiw?ext=png",
+      "metadata_hash": "2b34fa12849572c7c150ba2e092ea5e23c03fbcd76652d10f6be55706952f457",
+      "metadata_link": "https://arweave.net/5gdqz4vkZ0nzPErODCKZ9XU7IzSWtFxeYpC97udKKdk",
+      "onChain": true
+    },
+    "0": {
+      "name": "Odin",
+      "image_hash": "f514cf85c006ba7531fc5f65249e0fbcc89af358a95d09ca4e3a1ec3ba26f09f",
+      "image_link": "https://arweave.net/oE7mnet1eg_J--etYExAQJ6TxMed0bgj5__0R1oeUMI?ext=jpg",
+      "metadata_hash": "b2f9a89a0c427d2173630e88edeb2d934df973dd4b7ffaa8fc7eaba55816f1bf",
+      "metadata_link": "https://arweave.net/UD2Mka89uJFKcPuyQNfd2zY03CmjLMZ2lLfNdB37Pfk",
+      "onChain": true
+    },
+    "1": {
+      "name": "Mit D.",
+      "image_hash": "c484406124f14b579861848b73b38ea6cbfacab8c87ea8e828f8b06a10891a24",
+      "image_link": "https://arweave.net/V-QUyTci0FWoRg4hXes9RR3BLasyrdOC0JPQMoo4oXs?ext=jpg",
+      "metadata_hash": "9ae39ea1d3bdd876814aa0d1b6b4b50319651db31e0ec21e62e7061dcd88928c",
+      "metadata_link": "https://arweave.net/HOZXB2jj2iywQ3YnMafdGuaX0hx5EThfsqb4Rt3iNx4",
+      "onChain": true
+    }
+  }
+}

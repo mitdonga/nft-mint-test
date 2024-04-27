@@ -1,0 +1,14 @@
+{
+	"name": "Mit D.",
+	"symbol": "MIT",
+	"image": "1.jpg",
+	"description": "This is Mit, A full stack dev.",
+	"attributes": [
+		{"trait_type": "Number", "value": "10"}
+	],
+	"properties": {
+		"files": [
+			{"uri": "1.jpg", "type": "image/jpg"}
+		]
+	}
+}
